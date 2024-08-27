@@ -121,6 +121,14 @@ My current research interests include large-scale visualizations, augmented and 
 </details>
 
 <details>
+  <summary><h2>📚 My Publications</h2></summary>
+
+  1. Martin, A., Liu, G., Ladd, W., Lee, S., Gounley, J., Vetter, J., Patel, S., Rizzi, S., **Mateevitsi, V.**, Insley, J. and Randles, A. (2023, November). Performance Evaluation of Heterogeneous GPU Programming Frameworks for Hemodynamic Simulations. In *Proceedings of the SC'23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (pp. 1126-1137)*.
+  2. **V. A. Mateevitsi**, M. Bode, N. Ferrier, P. Fischer, J. H. Göbbert, J. A. Insley, Y. H. Lan, M. Min, M. E. Papka, S. Patel, S. Rizzi, and J. Windgassen. 2023. Scaling Computational Fluid Dynamics: In Situ Visualization of NekRS using SENSEI. In *Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W 2023)*, November 12–17, 2023, Denver, CO, USA. ACM, New York, NY, USA, 6 pages.
+
+</details>
+
+<details>
   <summary><h2>🎶 Now Playing</h2></summary>
   <a href="https://www.last.fm/user/mvictoras"><img src="https://lastfm-recently-played.vercel.app/api?user=mvictoras"></a>
 </details>
