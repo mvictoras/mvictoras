@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=mvictoras&color=blue)
-
 # 🏡 [Victor Mateevitsi](https://vmateevitsi.com)
+
+![](https://komarev.com/ghpvc/?username=mvictoras&color=blue)
 
 <details closed><summary>🎶 <code>Now Playing</code>:</summary>
     <a href="https://www.last.fm/user/mvictoras"><img src="https://lastfm-recently-played.vercel.app/api?user=mvictoras"></a>
