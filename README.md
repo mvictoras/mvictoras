@@ -48,7 +48,7 @@ My current research interests include large scale visualizations, augmented and 
   </a>
   </details>
 
-<details>
+<details open>
   <summary><h2>🧰 Toolbox</h2></summary>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
