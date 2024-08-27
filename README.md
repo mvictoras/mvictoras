@@ -19,12 +19,16 @@ My current research interests include large scale visualizations, augmented and 
 ## 📈 My Stats
 
 <!-- Contribution Heatmap with Snake Animation -->
-Contributions in the last year
+<p align="center">
+  <h3 align="center">Contributions in the last year</h3>
+</p>
 <img src="https://github.com/mvictoras/mvictoras/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
 <img src="https://github.com/mvictoras/mvictoras/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
 
 <!-- Github Streak Stats -->
-Github Stream Stats
+<p align="center">
+  <h3 align="center">Github Streak Stats</h3>
+</p>
 <a href="#gh-dark-mode-only">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mvictoras&border_radius=20&theme=tokyonight#gh-dark-mode-only" alt="GitHub Streak">
 </a>
@@ -32,7 +36,9 @@ Github Stream Stats
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mvictoras&border_radius=20&theme=default#gh-light-mode-only" alt="GitHub Streak">
 </a>
 <!-- LeetCode Stats -->
-LeetCode Stats
+<p align="center">
+  <h3 align="center">LeetCode Stats</h3>
+</p>
 <a href="https://leetcode.com/mvictoras#gh-dark-mode-only">
     <img src="https://leetcard.jacoblin.cool/mvictoras?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
 </a>
