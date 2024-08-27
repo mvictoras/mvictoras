@@ -28,13 +28,13 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#00FC58
             dist/ocean.svg?color_snake=#0043A3&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        #env:
+        env:
           # a github token is required to fetch the contribution calendar from github API
-        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-      #  env:
-      #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
