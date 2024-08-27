@@ -51,9 +51,9 @@ My current research interests include large scale visualizations, augmented and 
 <details open>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java"/>
@@ -63,7 +63,7 @@ My current research interests include large scale visualizations, augmented and 
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white" alt="Markdown"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white" alt="Shell Script"/>
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
   <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?logo=yaml&logoColor=151515" alt="YAML"/>
@@ -72,12 +72,12 @@ My current research interests include large scale visualizations, augmented and 
 
   <h3>💻 Software and Tools</h3>
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?logo=Adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/Adobe%20illustrator-%23FF9A00.svg?logo=Adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
+  <img src="https://img.shields.io/badge/Adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white" alt="Blender"/>
-  <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/git-F05033.svg?logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Houdini%20FX-%23FF4713.svg?logo=houdini&logoColor=white" alt="Houdini FX"/>
   <img src="https://img.shields.io/badge/iOS-000000.svg?logo=apple&logoColor=white" alt="iOS"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" alt="Jupyter"/>
