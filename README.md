@@ -27,24 +27,24 @@ My current research interests include large scale visualizations, augmented and 
 
 <!-- Github Streak Stats -->
 <p align="center">
-  <h3 align="center">Github Streak Stats</h3>
-</p>
-<a href="#gh-dark-mode-only">
+<h3 align="center">Github Streak Stats</h3>
+  <a href="#gh-dark-mode-only">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mvictoras&border_radius=20&theme=tokyonight#gh-dark-mode-only" alt="GitHub Streak">
-</a>
-<a href="#gh-light-mode-only">
+  </a>
+  <a href="#gh-light-mode-only">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mvictoras&border_radius=20&theme=default#gh-light-mode-only" alt="GitHub Streak">
-</a>
+  </a>
+</p>
 <!-- LeetCode Stats -->
 <p align="center">
   <h3 align="center">LeetCode Stats</h3>
-</p>
-<a href="https://leetcode.com/mvictoras#gh-dark-mode-only">
+  <a href="https://leetcode.com/mvictoras#gh-dark-mode-only">
     <img src="https://leetcard.jacoblin.cool/mvictoras?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
-</a>
-<a href="https://leetcode.com/mvictoras#gh-light-mode-only">
+  </a>
+  <a href="https://leetcode.com/mvictoras#gh-light-mode-only">
     <img src="https://leetcard.jacoblin.cool/mvictoras?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
-</a>
+  </a>
+</p>
 
 <details closed><summary>🎶 <code>Now Playing</code>:</summary>
     <a href="https://www.last.fm/user/mvictoras"><img src="https://lastfm-recently-played.vercel.app/api?user=mvictoras"></a>
