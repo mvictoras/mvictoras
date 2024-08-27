@@ -124,7 +124,58 @@ My current research interests include large-scale visualizations, augmented and 
   <summary><h2>📚 My Publications</h2></summary>
 
   1. Martin, A., Liu, G., Ladd, W., Lee, S., Gounley, J., Vetter, J., Patel, S., Rizzi, S., **Mateevitsi, V.**, Insley, J. and Randles, A. (2023, November). Performance Evaluation of Heterogeneous GPU Programming Frameworks for Hemodynamic Simulations. In *Proceedings of the SC'23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (pp. 1126-1137)*.
+
   2. **V. A. Mateevitsi**, M. Bode, N. Ferrier, P. Fischer, J. H. Göbbert, J. A. Insley, Y. H. Lan, M. Min, M. E. Papka, S. Patel, S. Rizzi, and J. Windgassen. 2023. Scaling Computational Fluid Dynamics: In Situ Visualization of NekRS using SENSEI. In *Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W 2023)*, November 12–17, 2023, Denver, CO, USA. ACM, New York, NY, USA, 6 pages.
+
+  3. Wu, Q., Insley, J. A., **Mateevitsi, V. A.**, Rizzi, S., & Ma, K. L. (2022, October). Distributed Volumetric Neural Representation for in situ Visualization and Analysis. In *2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)* (pp. 1-2). IEEE.
+  
+  4. **Tishchenko, N., Ferrier, N., Insley, J. A., **Mateevitsi, V. A.**, Papka, M. E., Rizzi, S., & Tan, J.** (2022, October). Toward Bi-directional In Situ Visualization and Analysis of Blood Flow Simulations With Dynamic Deforming Walls. In *2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)* (pp. 1-2). IEEE.
+  
+  5. **Ortiz, J. A., Insley, J. A., Knowles, J., Mateevitsi, V. A., Papka, M. E., & Rizzi, S.** (2022, October). Massive Data Visualization Techniques for use in Virtual Reality Devices. In *2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)* (pp. 1-2). IEEE.
+  
+  6. **Nealey, I., Ferrier, N., Insley, J. A., Mateevitsi, V. A., Rizzi, S., & Schulze, J.** (2022, October). Sort-Last In-Transit Data Visualization with SENSEI, Catalyst, and Unreal Engine. In *2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)* (pp. 1-2). IEEE.
+  
+  7. **Nealey, I., Ferrier, N., Insley, J. A., Mateevitsi, V. A., Papka, M. E., & Rizzi, S.** (2022, May). Cinema Transfer: A Containerized Visualization Workflow. In *International Conference on High Performance Computing* (pp. 324-343). Cham: Springer International Publishing.
+  
+  8. **Yang, O., Papakostas, M., Scott, J. M., O'Neill, E. R., Kondrashov, K. S., Mateevitsi, V. A., ... & Dittberner, A. B.** (2022). CheckMyFit: Ear Selfie to Assist User Insertion of Hearing Aids. *Proceedings of the ACM on Human-Computer Interaction*, 6(MHCI), 1-21.
+  
+  9. **Bucaro, C., Murphy, N., Ferrier, J., Insley, V. Mateevitsi, M. E. Papka, S. Rizzi, J. Tan.** Instrumenting Multiphysics Blood Flow Simulation Codes for In Situ Visualization and Analysis. In *2021 IEEE 11th Symposium on Large Data Analysis and Visualization (LDAV)*, IEEE, 2021.
+  
+  10. **J. Novak, J. Archer, V. Mateevitsi, and S. Jones.** (2016). Communication, machines & human augmentics. *Communication+ 1*, 1(2016): 51-35.
+  
+  11. **J. Lanier, V. Mateevitsi, K. Rathinavel, L. Shapira, J. Menke, P. Therien, J. Hudman, G. Speiginer, A. Stevenson Won, A. Banburski, X. Benavides, J. Amores, J. Porras Lurashi and W. Chang.** The RealityMashers: Augmented Reality Wide Field-of-View Optical See-Through Head Mounted Displays. In *15th IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*, 2016.
+  
+  12. **J. Novak, J. Archer, V. Mateevitsi, and S. Jones.** Communication, Machines & Human Augmentics. To appear in *Communication+ 1* journal, 2016.
+
+  13. **L. Renambot, T. Marrinan, J. Aurisano, A. Nishimoto, V. Mateevitsi, K. Bharadwaj, L. Long, A. Johnson, M. Brown, and J. Leigh.** SAGE2: A collaboration portal for scalable resolution displays. *Future Generation Computer Systems*, 54 (2016): 296-305.
+
+  14. **V. Mateevitsi, T. Patel, J. Leigh, and B. Levy.** (2015). Reimagining the microscope in the 21st century using the scalable adaptive graphics environment. *Journal of Pathology Informatics*, 6(2015).
+  
+  15. **V. Mateevitsi, and B. Levy.** (2014). Scalable Adaptive Graphics Environment: A Novel Way to View and Manipulate Whole-Slide Images. *Analytical Cellular Pathology 2014* (2014).
+  
+  16. **T. Marrinan, J. Aurisano, A. Nishimoto, K. Bharadwaj, V. Mateevitsi, L. Renambot, L. Long, A. Johnson, and J. Leigh.** (2014). SAGE2: A New Approach for Data Intensive Collaboration Using Scalable Resolution Shared Displays. In *Proceedings of the IEEE International Conference on Collaborative Computing: Networking, Applications and Worksharing, 2014.* **Best Paper Award**
+  
+  17. **A. Febretti, A. Nishimoto, V. Mateevitsi, L. Renambot, A. Johnson, and J. Leigh.** (2014). Omegalib: A multi-view application framework for hybrid reality display environments. In *Virtual Reality (VR), 2014 IEEE*, pp. 9-14. IEEE, 2014.
+  
+  18. **V. Mateevitsi, K. Reda, J. Leigh, and A. Johnson.** (2014). The health bar: a persuasive ambient display to improve the office worker's well being. In *Proceedings of the 5th Augmented Human International Conference*, p. 21. ACM, 2014.
+  
+  19. **M.A. Bassiony, B.J. Vesper, V.A. Mateevitsi, K.M. Elseth, M.D. Colvar, K.D. Garcia, J. Leigh, J.A. Radoscevich.** (2014). Immunohistochemical Evaluation of Bleeding Control Induced by Holmium Laser and Biolase Dental Laser As Coagulating Devices of Incisional Wounds. In *Proceedings of the UIC College of Dentistry Clinic and Research Day 2014*, Chicago, IL, March 6, 2014.
+  
+  20. **V. Mateevitsi, B. Haggadone, J. Leigh, B. Kunzer, and R.V. Kenyon.** (2013). Sensing the environment through SpiderSense. In *Proceedings of the 4th Augmented Human International Conference*, pp. 51-57. ACM, 2013.
+  
+  21. **C. Offord, K. Reda, and V. Mateevitsi.** (2013). Context-dependent navigation in a collectively foraging species of ant, Messor cephalotes. *Insectes Sociaux*, 60, no. 3 (2013): 361-368.
+  
+  22. **K. Reda, V. Mateevitsi, and C. Offord.** (2013). A human-computer collaborative workflow for the acquisition and analysis of terrestrial insect movement in behavioral field studies. *EURASIP Journal on Image and Video Processing*, 2013, no. 1 (2013): 1-17.
+  
+  23. **K. Reda, A. Johnson, V. Mateevitsi, C. Offord, and J. Leigh.** (2012). Scalable visual queries for data exploration on large, high-resolution 3D displays. In *High Performance Computing, Networking, Storage and Analysis (SCC), 2012 SC Companion*, pp. 196-205. IEEE, 2012.
+
+  24. **K. Reda, A. Johnson, V. Mateevitsi, C. Offord, and J. Leigh.** (2012). Scalable visual queries for data exploration on large, high-resolution 3D displays. In *High Performance Computing, Networking, Storage and Analysis (SCC), 2012 SC Companion*, pp. 196-205. IEEE, 2012.
+
+  25. **A. Febretti, V.A. Mateevitsi, D. Chau, A. Nishimoto, B. McGinnis, J. Misterka, A. Johnson, and J. Leigh.** (2011). The OmegaDesk: towards a hybrid 2D and 3D work desk. In *Advances in Visual Computing*, pp. 13-23. Springer Berlin Heidelberg, 2011.
+  
+  26. **G. Doumenis, S. Papastefanos, V. Mateevitsi, F. Andritsopoulos, N. Achilleopoulos, and A.V. Mikhalev.** (2008). Video index and search services based on content identification features. In *Broadband Multimedia Systems and Broadcasting, 2008 IEEE International Symposium on*, pp. 1-4. IEEE, 2008.
+  
+  27. **V. Mateevitsi, M. Sfakianos, G. Lepouras, and C. Vassilakis.** (2008). A game-engine based virtual museum authoring and presentation system. In *Proceedings of the 3rd international conference on Digital Interactive Media in Entertainment and Arts*, pp. 451-457. ACM, 2008.
 
 </details>
 
