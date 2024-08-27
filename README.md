@@ -68,7 +68,24 @@ My current research interests include large scale visualizations, augmented and 
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
   <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?logo=yaml&logoColor=151515" alt="YAML"/>
 
-  <!--<h3>🧰 Frameworks and Libraries</h3>-->
+  <h3>🧰 Frameworks and Libraries</h3>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/cuda-000000.svg?logo=nVIDIA&logoColor=green" alt="nVIDIA CUDA"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Hugo-black.svg?logo=Hugo&logoColor=white" alt="Hugo"/>
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white" alt="NPM"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?logo=opengl&logoColor=white" alt="OpenGL"/>
+  <img src="https://img.shields.io/badge/threejs-black.svg?logo=three.js&logoColor=white" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Vuetify-1867C0.svg?logo=vuetify&logoColor=AEDDFF" alt="Vuetify"/>
+  <img src="https://img.shields.io/badge/WebGL-990000.svg?logo=webgl&logoColor=white" alt="WebGL"/>
+  <img src="https://img.shields.io/badge/web3.js-F16822.svg?logo=web3.js&logoColor=white" alt="Web3.js"/>
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white" alt="Yarn"/>
 
   <h3>💻 Software and Tools</h3>
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects"/>
