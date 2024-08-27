@@ -49,23 +49,58 @@ My current research interests include large scale visualizations, augmented and 
   </details>
 
 <details open>
-  <summary><h2>🧰 Toolbox</h2></summary>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
-  <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" alt="YAML"/>
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
+  <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?logo=yaml&logoColor=151515" alt="YAML"/>
+
+  <!--<h3>🧰 Frameworks and Libraries</h3>-->
+
+  <h3>💻 Software and Tools</h3>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects"/>
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?logo=Adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/>
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Houdini%20FX-%23FF4713.svg?logo=houdini&logoColor=white" alt="Houdini FX"/>
+  <img src="https://img.shields.io/badge/iOS-000000.svg?logo=apple&logoColor=white" alt="iOS"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Mac%20OSX-000000.svg?logo=apple&logoColor=white" alt="Mac OSX"/>
+  <img src="https://img.shields.io/badge/Overleaf-%2344B78B.svg?logo=overleaf&logoColor=white" alt="Overleaf"/>
+  <img src="https://img.shields.io/badge/ParaView-%234EA1D3.svg?logo=paraview&logoColor=white" alt="ParaView"/>
+  <img src="https://img.shields.io/badge/vi-%23000000.svg?logo=vim&logoColor=white" alt="vi"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/visionOS-000000.svg?logo=apple&logoColor=white" alt="visionOS"/>
+
+  <h3>ᯅ Virtual and Augmented Reality</h3>
+  <img src="https://img.shields.io/badge/CAVE2-00AEEF.svg?logo=none&logoColor=white" alt="CAVE2"/>
+  <img src="https://img.shields.io/badge/HoloLens-0078D7.svg?logo=microsoft&logoColor=white" alt="HoloLens"/>
+  <img src="https://img.shields.io/badge/HoloLens%202-0078D7.svg?logo=microsoft&logoColor=white" alt="HoloLens 2"/>
+  <img src="https://img.shields.io/badge/HTC%20Vive-0094F8.svg?logo=htc&logoColor=white" alt="HTC Vive"/>
+  <img src="https://img.shields.io/badge/HTC%20Vive%20Pro-0094F8.svg?logo=htc&logoColor=white" alt="HTC Vive Pro"/>
+  <img src="https://img.shields.io/badge/HTC%20Vive%20Pro%202-0094F8.svg?logo=htc&logoColor=white" alt="HTC Vive Pro 2"/>
+  <img src="https://img.shields.io/badge/VisionPRO-000000.svg?logo=apple&logoColor=white" alt="VisionPRO"/>
+  <img src="https://img.shields.io/badge/Oculus%20Rift-1C1E20.svg?logo=oculus&logoColor=white" alt="Oculus Rift"/>
+  <img src="https://img.shields.io/badge/Oculus%20Quest-1C1E20.svg?logo=oculus&logoColor=white" alt="Oculus Quest"/>
+  <img src="https://img.shields.io/badge/Oculus%20Quest%202-1C1E20.svg?logo=oculus&logoColor=white" alt="Oculus Quest 2"/>
+  <img src="https://img.shields.io/badge/Meta%20Quest%203-1C1E20.svg?logo=meta&logoColor=white" alt="Meta Quest 3"/>
+  
 </details>
 
 <details>
