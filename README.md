@@ -121,7 +121,7 @@ My current research interests include large-scale visualizations, augmented and 
 </details>
 
 <details>
-  <summary><h2>🏆 Awards and Honors</h2></summary>
+  <summary><h2>🏆 My Awards and Honors</h2></summary>
 
   - **Best Paper Award**  
     *2023, [ISAV 2023 Workshop](https://www.alcf.anl.gov/news/alcf-team-wins-best-paper-award-isav-2023-workshop)*
