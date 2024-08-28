@@ -226,7 +226,7 @@ My current research interests include large-scale visualizations, augmented and 
 
 <details>
   <summary><h2>📚 Now Reading</h2></summary>
-  <a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=49383170" alt="GoodReads reading" width="350" /></a>
+  <a href="https://www.goodreads.com/user/show/49383170-victor-mateevitsi"><img src="https://goodreads-readme.vercel.app/api/book?id=49383170" alt="GoodReads reading" width="350" /></a>
 </details>
 
 <details>
