@@ -121,6 +121,51 @@ My current research interests include large-scale visualizations, augmented and 
 </details>
 
 <details>
+  <summary><h2>🏆 Awards and Honors</h2></summary>
+
+  - **Best Paper Award**  
+    *2023, [ISAV 2023 Workshop](https://www.alcf.anl.gov/news/alcf-team-wins-best-paper-award-isav-2023-workshop)*
+
+  - **IEEE Scientific Visualization Contest Winner**  
+    *2023, [IEEE VIS Conference](https://www.computer.org/csdl/magazine/cg/5555/01/10637909/1ZqVqf74oKc)*
+
+  - **IEEE Scientific Visualization Contest, Best Workflow**  
+    *2023, [IEEE VIS Conference](https://www.computer.org/csdl/magazine/cg/5555/01/10637909/1ZqVqf74oKc)*
+
+  - **Argonne Impact Award**  
+    *2023, Argonne National Laboratory*
+  
+  - **TEDx Speaker**  
+    *2016, [TEDxUofIChicago](https://www.youtube.com/watch?v=gtU-6cxi1OA)*
+  
+  - **Alien of Extraordinary Ability**  
+    *2016, US Green Card*
+  
+  - **Dean’s Scholar Award**  
+    *2015, [University of Illinois at Chicago](hhttps://www.evl.uic.edu/events/2088)*
+  
+  - **20 in their 20s**  
+    *2014, [Crain’s Chicago Business](https://www.chicagobusiness.com/awards/20-their-20s-victor-mateevitsi)*
+  
+  - **Best Paper Award**  
+    *2014, [IEEE CollaborateCom](https://sage2.sagecommons.org/2014/10/26/sage2-gets-best-paper-award-at-collaboratecom-2014/)*
+  
+  - **Fifty For The Future®**  
+    *2013, [Illinois Technology Foundation](https://today.uic.edu/computer-science-students-among-fifty-for-future/)*
+  
+  - **Certificate of Appreciation for outstanding performance and lasting contribution to Wearable Technology**  
+    *2013, MIT Enterprise Forum Chicago*
+  
+  - **Best Augmented Reality Hardware (Finalist)**  
+    *2013, Augmented World Expo*
+  
+  - **Image of Research (Finalist)**  
+    *2013, University of Illinois at Chicago*
+
+</details>
+
+
+<details>
   <summary><h2>📚 My Publications</h2></summary>
 
   1. Martin, A., Liu, G., Ladd, W., Lee, S., Gounley, J., Vetter, J., Patel, S., Rizzi, S., **Mateevitsi, V.**, Insley, J. and Randles, A. (2023, November). Performance Evaluation of Heterogeneous GPU Programming Frameworks for Hemodynamic Simulations. In *Proceedings of the SC'23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (pp. 1126-1137)*.
