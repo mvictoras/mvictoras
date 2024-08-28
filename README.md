@@ -225,6 +225,11 @@ My current research interests include large-scale visualizations, augmented and 
 </details>
 
 <details>
+  <summary><h2>📚 Now Reading</h2></summary>
+  <a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=49383170" alt="GoodReads reading" width="350" /></a>
+</details>
+
+<details>
   <summary><h2>🎶 Now Playing</h2></summary>
   <a href="https://www.last.fm/user/mvictoras"><img src="https://lastfm-recently-played.vercel.app/api?user=mvictoras"></a>
 </details>
