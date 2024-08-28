@@ -106,7 +106,7 @@ My current research interests include large-scale visualizations, augmented and 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/VisionPRO-000000.svg?logo=apple&logoColor=white" alt="VisionPRO"/>
 
-  <h3>🌐 Virtual and Augmented Reality</h3>
+  <h3>ᯅ Virtual and Augmented Reality</h3>
   <img src="https://img.shields.io/badge/CAVE2-00AEEF.svg?logo=none&logoColor=white" alt="CAVE2"/>
   <img src="https://img.shields.io/badge/HoloLens-0078D7.svg?logo=microsoft&logoColor=white" alt="HoloLens"/>
   <img src="https://img.shields.io/badge/HoloLens%202-0078D7.svg?logo=microsoft&logoColor=white" alt="HoloLens 2"/>
