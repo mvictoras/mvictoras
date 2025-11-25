@@ -9,7 +9,7 @@
 <a href="https://bsky.app/profile/vmateevitsi.com" target="_blank"><img src="https://img.shields.io/badge/Bluesky-%231185FE.svg?&style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"></a>
 <a href="https://www.threads.net/@mvictoras" target="_blank"><img src="https://img.shields.io/badge/Threads-%23000000.svg?&style=flat-square&logo=threads&logoColor=white" alt="Threads"></a>
 
-I'm currently an [Assistant Computer Scientist](https://www.alcf.anl.gov/about/people/victor-mateevitsi) at the [Argonne Leadership Computing Facility](https://alcf.anl.gov) (ALCF) at [Argonne National Laboratory](https://www.anl.gov) and an Adjunct Research Professor at the [University of Illinois Chicago](https://www.uic.edu).
+I'm currently a [Computer Scientist](https://www.alcf.anl.gov/about/people/victor-mateevitsi) at the [Argonne Leadership Computing Facility](https://alcf.anl.gov) (ALCF) at [Argonne National Laboratory](https://www.anl.gov) and an Adjunct Research Professor at the [University of Illinois Chicago](https://www.uic.edu).
 
 In the past, I have worked for Microsoft Research, Pixar, and DreamWorks Animation.
 
